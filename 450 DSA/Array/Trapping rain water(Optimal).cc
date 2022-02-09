@@ -1,4 +1,4 @@
-//T.C = O(N) S.C = O(1)
+//T.C = O(N) S.C = O(1) //
 
 int low = 0;
 int high = n-1;
