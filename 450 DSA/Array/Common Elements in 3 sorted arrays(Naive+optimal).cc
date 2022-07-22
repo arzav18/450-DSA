@@ -1,4 +1,4 @@
-//T.C = S.C = O(n1+n2+n3)
+//T.C = S.C = O(n1+n2+n3) //
 
 #include<iostream>
 using namespace std;
