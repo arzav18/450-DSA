@@ -19,3 +19,4 @@ int main()
     cout<<"element is:"<<kthSmallest(arr,n,k);
     return 0;
 }
+//
